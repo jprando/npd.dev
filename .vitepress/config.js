@@ -1,6 +1,6 @@
 export default {
   lang: "pt-BR",
-  title: "NP2Dev",
+  title: "NPD",
   description: "compartilhando coisas que aprendemos no dia a dia.",
   themeConfig: {
     socialLinks: [
