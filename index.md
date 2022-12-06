@@ -33,5 +33,5 @@ features:
     details: Você tem uma ferramenta ou framework que você gosta e acompanha? utilize este espaço e compartilhe.
   - icon: 😜
     title: Não deixe ser eganado
-    details: Se você ouvir por ai, que NPD quer dizer nucleo de pessoas desoculpadas, nucleo de pessoas doidas ou ninguem precisa deles, é tudo mentira.
+    details: Se você ouvir por ai, que NPD quer dizer nucleo de pessoas desoculpadas, nucleo de pessoas doidas ou ninguem precisa deles, é tudo estória.
 ---
