@@ -1,7 +1,7 @@
 ---
 title: NPD
 titleTemplate: Início
-description: Pagina inicial do blog NPD.DEV
+description: Pagina inicial do blog
 head:
   - - meta
     - name: keywords
