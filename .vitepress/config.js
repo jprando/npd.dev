@@ -1,7 +1,13 @@
 export default {
   lang: "pt-BR",
+  appearance: "dark",
   title: "NPD",
   description: "compartilhando coisas que aprendemos no dia a dia.",
+  lastUpdated: true,
+  markdown: {
+    theme: 'material-palenight',
+    lineNumbers: true
+  },
   themeConfig: {
     socialLinks: [
       {
