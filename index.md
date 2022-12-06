@@ -24,7 +24,7 @@ hero:
 features:
   - icon: ⚡️
     title: Simples, rápido e fácil
-    details: O que para você pode ser fácil, para outras pessoas pode ser difícil, vamos centralizar os hack que encontrar-mos na rede.
+    details: O que para você pode ser fácil, para outras pessoas pode ser difícil, vamos centralizar os hack que encontrarmos na rede.
   - icon: 🤝
     title: Compartilhe a sua expêriencia
     details: Nesses novos tempos, é imperativo encontrar o que nos levará a um outro patamar!
