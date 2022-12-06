@@ -1,0 +1,15 @@
+{
+  "name": "npddev",
+  "packageManager": "yarn@3.3.0",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "@vueuse/core": "^9.6.0",
+    "body-scroll-lock": "^4.0.0-beta.0",
+    "vitepress": "^1.0.0-alpha.30",
+    "vue": "^3.2.45"
+  }
+}
